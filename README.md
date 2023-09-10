@@ -7,21 +7,39 @@ O código está em formato de script para mostrar o processo de pensamento. Espe
 Por favor, consulte https://www.statlearning.com/ para mais detalhes.
 
 Configuração para este repositório:
+
 Python==3.6.2
+
 ipykernel==4.10.0
+
 numpy==1.19.2
+
 matplotlib==3.3.4
+
 pandas==1.1.5
+
 statsmodels==0.12.2
+
 scikit-learn==0.21.1
+
 patsy==0.5.1
+
 scipy==1.5.2
+
 seaborn==0.11.2
+
 json==2.0.9
+
 tensorflow==2.0.0
+
 keras==2.3.1
+
 lifelines==0.26.3
+
 math
+
 random
+
 collections
+
 itertools
