@@ -2,9 +2,13 @@
 
 Neste repositório, implementei os códigos e desafios encontrados no livro "Uma Introdução ao Aprendizado Estatístico com Aplicações em Python", primeira edição. de Gareth James • Daniela Witten • Trevor Hastie e Robert Tibshirani. Este livro tem sido muito útil para mim.
 
+
 O código está em formato de script para mostrar o processo de pensamento. Espero que isso possa ajudar este livro a alcançar um público mais amplo. Não deixe as barreiras linguísticas impedirem você de explorar algo divertido e útil.
 
+
 Por favor, consulte https://www.statlearning.com/ para mais detalhes.
+
+
 
 Configuração para este repositório:
 
